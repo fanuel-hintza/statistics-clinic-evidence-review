@@ -1,0 +1,6 @@
+*.csv
+*.pbix
+*.pptx
+.ipynb_checkpoints/
+desktop.ini
+.DS_Store
